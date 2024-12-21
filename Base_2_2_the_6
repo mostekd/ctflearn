@@ -1,0 +1,10 @@
+task:
+There are so many different ways of encoding and decoding information nowadays... One of them will work! Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
+
+sollution:
+go to: https://gchq.github.io/CyberChef/
+chose: from Base64
+paste: Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
+optput is the flag
+
+falg: CTF{FlaggyWaggyRaggy}
