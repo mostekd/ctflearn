@@ -3,8 +3,8 @@ There are so many different ways of encoding and decoding information nowadays..
 
 sollution:
 go to: https://gchq.github.io/CyberChef/
-chose: from Base64
+chose option: from Base64
 paste: Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
-optput is the flag
+output is the flag.
 
 falg: CTF{FlaggyWaggyRaggy}
