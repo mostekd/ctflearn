@@ -1,0 +1,12 @@
+task:
+Think the flag is somewhere in there. Would you help me find it? https://mega.nz/#!OHohCbTa!wbg60PARf4u6E6juuvK9-aDRe_bgEL937VO01EImM7c
+
+sollution:
+go to: https://mega.nz/#!OHohCbTa!wbg60PARf4u6E6juuvK9-aDRe_bgEL937VO01EImM7c
+download the image
+open terminal
+write command: cd Downloads
+write command: file 95f6edfb66ef42d774a5a34581f19052.jpg
+write command: strings 95f6edfb66ef42d774a5a34581f19052.jpg | grep  "flag"
+
+flag: flag{wow!_data_is_cool}
