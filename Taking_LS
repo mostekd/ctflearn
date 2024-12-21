@@ -1,0 +1,21 @@
+task:
+Just take the Ls. Check out this zip file and I be the flag will remain hidden. https://mega.nz/#!mCgBjZgB!_FtmAm8s_mpsHr7KWv8GYUzhbThNn0I8cHMBi4fJQp8
+
+sollution:
+go to: https://mega.nz/#!mCgBjZgB!_FtmAm8s_mpsHr7KWv8GYUzhbThNn0I8cHMBi4fJQp8
+download zip
+open terminal
+use command: unzip 'The Flag.zip'
+use command: cd 'The Flag'
+use command: ls -al
+use command: cd .ThePassword
+use command: ls
+use command: cat ThePassword.txt
+open file manager
+open folder Downloads
+open folder The Flag
+open pdf file
+password: Im The Flag
+in the pdf file is the flag
+
+flag: ABCTF{T3Rm1n4l_is_C00l}
