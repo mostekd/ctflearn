@@ -1,0 +1,10 @@
+task:
+..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...
+
+sollution:
+go to: https://gchq.github.io/CyberChef/
+chose: From Morse Code
+paste: ..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...
+output is the flag
+
+flag: FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES 
